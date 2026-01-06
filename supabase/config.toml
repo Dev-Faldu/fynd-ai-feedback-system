@@ -1,0 +1,7 @@
+project_id = "hdiyfxiltxlhokcetxyb"
+
+[functions.submit-review]
+verify_jwt = false
+
+[functions.get-reviews]
+verify_jwt = false
